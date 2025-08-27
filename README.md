@@ -1,11 +1,21 @@
 # Machine-Learning-Projects
-A portfolio of all machine learning projects i've completed ₊˚⊹ ᰔ
+A portfolio of machine learning projects I have completed, showcasing skills in data cleaning, feature engineering, modeling, and visualization.  
 
-Please explore any of my projects by navigating to any of the folders in this repository !!
+Each project demonstrates a unique problem-solving approach, from predictive modeling and classification to recommendation systems and interactive dashboards.
 
-# Repository Strucure:
+---
+
+## Repository Overview
+This repository contains multiple machine learning projects spanning various domains such as employee analytics, public health, and gaming. Each folder includes relevant code, datasets (where possible), notebooks, and results.
+
+You can explore any project by navigating to the folders linked below.
+
+---
+
+## Repository Structure
 
 Machine-Learning-Projects/
+
 │
 
 ├── [Employee Sentiment Analysis](https://github.com/emmyson11/Machine-Learning-Projects/tree/0bc69e5062058f9c05874a9d3095344702188666/Employee%20Sentiment%20Analysis)
