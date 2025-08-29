@@ -5,7 +5,7 @@
 This project analyzes employee email sentiment data to uncover communication patterns, detect flight risk indicators, and build a predictive model for monthly sentiment scores. The analysis incorporates natural language sentiment scoring, communication volume trends, and predictive modeling using linear regression.
 
 Access to Final Report:
-- [Full Employee Sentiment Analysis Report](/ESA_Final_Report.docx)
+- [[Full Employee Sentiment Analysis Report](/ESA_Final_Report.docx)](https://github.com/emmyson11/Machine-Learning-Projects/blob/42c10404e950367e58f811272f204d8f18a82320/Employee%20Sentiment%20Analysis/report/ESA_Final_Report.docx)
 
 ### Top 3 Employees by Overall Positive Sentiment
 Based on cumulative monthly sentiment scores:
