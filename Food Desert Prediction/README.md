@@ -57,7 +57,7 @@ The Random Forest model achieved strong classification performance, accurately i
 - KNN performed well locally but struggled to generalize across complex feature interactions.
 
 ### Visualizations
-- [See the interactive dashboard]([notebooks/analysis.ipynb](https://public.tableau.com/app/profile/soumily.maji/viz/Book1_17459066681670/Sheet1)): Darker shades indicate higher probability of a region being a food desert.  
+- [See the interactive dashboard](https://public.tableau.com/app/profile/soumily.maji/viz/Book1_17459066681670/Sheet1): Darker shades indicate higher probability of a region being a food desert.  
 - Key predictors include **poverty rate, median family income, racial demographics, and transportation access**.
 
 ---
